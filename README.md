@@ -22,7 +22,7 @@ pip install "opencv_python-3.4.3+contrib-cp36-cp36m-win_amd64"
 
 Try this markdown:
 
-![img]()
+![img](https://github.com/hrishikeshmane/colour_detection_opencv/blob/master/cv2.png)
 
 
 
